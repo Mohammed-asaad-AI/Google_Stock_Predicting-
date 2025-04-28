@@ -31,3 +31,13 @@ Both models are evaluated for accuracy, and the forecasts are plotted to visuali
 1. Install requirements:
    ```bash
    pip install pandas numpy matplotlib scikit-learn
+2. Run the Python script.
+3. View the plotted predictions comparing actual prices vs. forecasted prices.
+
+## 📈 Outputs
+- Two models: svm_linear.pickle and linearregression.pickle
+
+- Forecast plots comparing both models with actual historical prices.
+
+Author: Mohammed Asaad
+Year: 2025
